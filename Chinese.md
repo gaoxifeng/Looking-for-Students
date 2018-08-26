@@ -1,5 +1,5 @@
 # 招生说明
-本人在美国弗罗里达州立大学（FSU, Florida State University）计算机系担任助理教授（Assistant Professor）, 研究课题是以计算机图形学,工程制造,三维打印,可视化,和图像处理等各种应用为驱动的参数化, 网格化(2D/3D+time), 及优化问题为主,详情请见个人主页(https://gaoxifeng.github.io/)。
+本人在美国弗罗里达州立大学（FSU, Florida State University）计算机系担任助理教授（Assistant Professor）, 研究课题是以计算机图形学,工程制造,三维打印,可视化,和图像处理等各种应用为驱动的参数化, 网格化(2D/3D+time), 及优化问题为主,详情请见个人主页:https://gaoxifeng.github.io/
 
 现招收2名全奖博士生，欢迎计算机, 机械工程, 应用数学等相关专业的同学申请。感兴趣的同学请发送简历，本科(及硕士,有更好)成绩单到邮箱 gao@cs.fsu.edu。
 
